@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "typescriptHero.imports.organizeOnSave": true,
+  "typescriptHero.imports.insertSemicolons": false,
+  "typescriptHero.imports.multiLineTrailingComma": false,
+  "typescriptHero.imports.grouping": ["Plains", "Modules", "Workspace", "Remaining"]
+}
